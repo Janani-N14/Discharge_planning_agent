@@ -1,0 +1,6 @@
+{
+  "patient_summary": "65-year-old male admitted for heart failure exacerbation.",
+  "diagnoses": ["CHF", "Hypertension"],
+  "medications": ["Furosemide", "Lisinopril"],
+  "social_factors": "Lives alone, limited mobility"
+}
